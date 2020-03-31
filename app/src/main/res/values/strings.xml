@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ПершаяДамашка</string>
     <string name="country2">БЕЛАРУСЬ(Нацыянальны сцяг)</string>
+    <string name="country2horizontal">Беларусь(Нацыянальны сцяг)Horizontal</string>
 </resources>

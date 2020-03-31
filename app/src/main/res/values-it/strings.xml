@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PrimiCompiti</string>
     <string name="country2">ITALY</string>
+    <string name="country2horizontal">ITALY Horizontal</string>
 </resources>

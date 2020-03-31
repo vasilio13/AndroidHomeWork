@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MajasDarbsViens</string>
     <string name="country2">LATVIJA</string>
+    <string name="country2horizontal">LATVIJA Horizontal</string>
 </resources>
